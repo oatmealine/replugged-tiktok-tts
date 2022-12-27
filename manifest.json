@@ -1,16 +1,16 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
+  "id": "zone.oat.tiktok-tts",
+  "name": "TikTok TTS",
+  "description": "Lets you speak Discord messages with the TikTok TTS.",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "oatmealine",
+    "discordID": "276416332894044160",
+    "github": "oatmealine"
   },
-  "version": "1.0.3",
+  "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/plugin-template"
+    "id": "oatmealine/replugged-tiktok-tts"
   },
   "license": "MIT",
   "type": "replugged-plugin",
